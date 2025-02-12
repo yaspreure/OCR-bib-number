@@ -24,7 +24,7 @@ Assurez-vous d'avoir les éléments suivants installés :
 
 ### ⚙️ Configuration
 
-1. 🖥 Cloner le dépôt :
+1. 🖥 Cloner le repo :
    ```sh
    git clone https://github.com/votreutilisateur/votre-repo.git
    cd votre-repo
@@ -64,7 +64,7 @@ Le script génère un fichier JSON avec les résultats :
 
 ## 🤝 Contribution
 
-N'hésitez pas à forker ce dépôt et à soumettre des pull requests pour toute amélioration.
+N'hésitez pas à fork ce repo et à soumettre des pull requests pour toute amélioration.
 
 ## 📜 Licence
 
